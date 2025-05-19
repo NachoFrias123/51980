@@ -1,0 +1,62 @@
+instrucciones:
+    instruccion
+    | instrucciones instruccion
+    ;
+
+instruccion: bucle;
+
+bucle:
+    "do" "{" sentencia "}" "while" "(" condicion ")" ";"
+    ;
+
+sentencia:
+    salida
+    | salida sentencia
+    | terminar
+    ;
+
+salida:
+    "puts" "(" cadena ")" ";"
+    ;
+
+terminar:
+    "break" ";"
+    ;
+
+condicion:
+    "0"
+    | "1"
+    ;
+
+cadena:
+    "\"" caracteres "\""
+    ;
+
+caracteres:
+    carácter
+    | caracteres carácter
+    ;
+
+carácter:
+    letra
+    | dígito
+    | símbolo
+    ;
+
+letra:
+    "a" ... "z"
+    | "A" ... "Z"
+    ;
+
+dígito:
+    "0" ... "9"
+    ;
+
+símbolo:
+    " "
+    | ","
+    | "."
+    | "?"
+    | "!"
+    | ";"
+    ;
