@@ -2,6 +2,7 @@
 
 Repositorio del alumno **Ignacio Frías** — Legajo: `51980`  
 URL del repositorio: https://github.com/NachoFrias123/51980
+
 ACLARACION PARA EL PROFESOR: Tuve que poner todos los archivos del analizador, debido a que era la unica manera que tenia al alcanze, ya intente de todas las formas subir solo los archivos que pide el pdf de PAUTAS DE TRABAJO PARA LA CONSTRUCCIÓN DEL ANALIZADOR SINTÁCTICO, pero no lo logre.
 
 ---
