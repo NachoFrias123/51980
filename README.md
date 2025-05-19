@@ -33,7 +33,7 @@ Este proyecto implementa un analizador léxico y sintáctico de un subconjunto d
 ### 1. Clonar el repositorio
 
     git clone https://github.com/NachoFrias123/51980.git
-    cd 51980
+
 
 Cambia al directorio del proyecto:
 
