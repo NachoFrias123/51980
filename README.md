@@ -44,7 +44,11 @@ Para abrir el proyecto en VS Code escribe esto en la terminal:
 
     code .
 
+En caso de nunca haber ejecutado el comando npm (si ya haz ejecutado ese comando sigue por el paso 2), desde la terminal ejecuta este comando para permitir la ejecución de scripts:
 
+    Set-ExecutionPolicy RemoteSigned -Scope CurrentUser
+
+    
 ### 2. Instalar dependencias
 1. Abrir una nueva terminal dentro de VSC
 
