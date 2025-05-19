@@ -43,7 +43,15 @@ Para abrir el proyecto en VS Code escribe esto en la terminal:
 
 
 ### 2. Instalar dependencias
-    npm install antlr4
+1. Abrir una nueva terminal dentro de VSC
+
+![image](https://github.com/user-attachments/assets/10d87028-78c1-4cee-ba38-ef24d0be4664)
+
+![image](https://github.com/user-attachments/assets/b170c251-6240-43cd-aae5-91a90a219cbd)
+
+2. Luego escribir:
+
+       npm install antlr4
 
   ![image](https://github.com/user-attachments/assets/356aa9e1-32a9-4d90-9909-87d2c482c8e3)
 
