@@ -35,7 +35,7 @@ Este proyecto implementa un analizador léxico y sintáctico de un subconjunto d
 
 Cambia al directorio del proyecto:
 
-    cd 51980/Analizador de 0
+    cd 51980
 
 Para abrir el proyecto en VS Code escribe esto en la terminal:
 
