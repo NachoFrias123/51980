@@ -3,9 +3,10 @@
 Repositorio del alumno **Ignacio Frías** — Legajo: `51980`  
 URL del repositorio: https://github.com/NachoFrias123/51980
 
-ACLARACION PARA EL PROFESOR: Tuve que poner todos los archivos del analizador, debido a que era la unica manera que tenia al alcanze, ya intente de todas las formas subir solo los archivos que pide el pdf de PAUTAS DE TRABAJO PARA LA CONSTRUCCIÓN DEL ANALIZADOR SINTÁCTICO, pero no lo logre.
+ACLARACION PARA EL PROFESOR: Le escribo para informarle que no logré cumplir con el punto 2.1 de las pautas de entrega, que exige que el repositorio contenga una carpeta con el proyecto del analizador generado desde Visual Studio Code como un proyecto Node.js.
 
----
+El motivo fue que, al momento de subir los archivos, la única forma en que pude hacerlo correctamente fue subiendo todos los archivos individualmente, sin pasar por la creación formal del proyecto desde VS Code (npm init con estructura completa).
+
 
 # Descripción
 
