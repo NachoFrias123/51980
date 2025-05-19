@@ -1,0 +1,4 @@
+do {
+    puts("Condición inválida.");
+    break;
+} while (true);
