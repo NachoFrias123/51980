@@ -65,7 +65,7 @@ Para abrir el proyecto en VS Code escribe esto en la terminal:
     
 ![image](https://github.com/user-attachments/assets/d6798548-813c-46b4-9dc4-b59b73ff0264)
 
-Si el ejmplo ingresado es correcto, le deberia aperecer debajo de la tabla de tokens y lexemas:
+Si el ejemplo ingresado es correcto, le deberia aperecer debajo de la tabla de tokens y lexemas:
 
 ![image](https://github.com/user-attachments/assets/bb60136e-74fc-4062-a23b-2e674d121808)
 
